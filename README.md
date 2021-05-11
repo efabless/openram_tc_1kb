@@ -1,3 +1,3 @@
-# openram_tc_1kb SoC Development Board Design & Documentation
+# openram_tc_1kb Breakout Board & Documentation
 
 ------>>>> WORK IN PROGRESS <<<<-------
